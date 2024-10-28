@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/visibleone-interactive-demo/static/css/main.3325fc8c.css",
-    "main.js": "/visibleone-interactive-demo/static/js/main.f42d3ddb.js",
+    "main.js": "/visibleone-interactive-demo/static/js/main.39b9d2fc.js",
     "index.html": "/visibleone-interactive-demo/index.html",
     "main.3325fc8c.css.map": "/visibleone-interactive-demo/static/css/main.3325fc8c.css.map",
-    "main.f42d3ddb.js.map": "/visibleone-interactive-demo/static/js/main.f42d3ddb.js.map"
+    "main.39b9d2fc.js.map": "/visibleone-interactive-demo/static/js/main.39b9d2fc.js.map"
   },
   "entrypoints": [
     "static/css/main.3325fc8c.css",
-    "static/js/main.f42d3ddb.js"
+    "static/js/main.39b9d2fc.js"
   ]
 }
